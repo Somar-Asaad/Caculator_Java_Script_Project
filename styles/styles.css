@@ -1,0 +1,71 @@
+body {
+  background-color: rgb(30, 30, 30);
+}
+
+h1 {
+  text-align: center;
+  color: rgb(199, 179, 25);
+  font-weight: bold;
+}
+
+nav {
+  background-color: rgb(254, 254, 218);
+  padding: 20px;
+  border-radius: 5px;
+  width: 70%;
+  margin: auto;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-weight: bold;
+}
+
+h3 {
+  margin: 0px;
+}
+
+input {
+  width: 2rem;
+  height: 1rem;
+  background-color: rgb(254, 254, 218);
+  border-width: 1.5px;
+  font-size: 20px;
+  display: block;
+  margin: 8px 0px 15px;
+  padding: 10px;
+}
+
+button {
+  background-color: rgb(199, 179, 25);
+  font-weight: bold;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  color: rgb(30, 30, 30);
+}
+
+#Calculated-number {
+  width: 100%;
+  margin: auto;
+  text-align: center;
+  color: black;
+  font-size: 25px;
+  background-color: rgb(199, 179, 25);
+  border-radius: 5px;
+  padding: 15px 0px;
+  margin: 20px 0px;
+  display: none;
+}
+
+/*highlit */
+
+#highlight a {
+  text-decoration: none;
+  color: rgb(161, 144, 12);
+}
+
+.highlighted-anchor-tags {
+  background-color: rgb(63, 4, 141);
+ padding: 0.25rem;
+}
